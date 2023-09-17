@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql:andudb
+    url: jdbc:postgresql:urldb
     username: postgres
     password: tough-pwd-pg
     driver-class-name: org.postgresql.Driver
